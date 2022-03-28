@@ -1,4 +1,4 @@
-# Authorization application. [Demo](https://vladnew91-todo-list.netlify.app/)
+# Authorization application. [Demo](https://vladnew91-authorization.netlify.app/)
 
 ## Application description:
 
